@@ -2,7 +2,7 @@
 #### Project overview  
 
 - Mongo and mongo-express deployment using kubernetes minikube.
-![Image](Images/arch.png)
+![Image](../Images/arch.png)
 ```
 $ minikube start
 ```
